@@ -8,11 +8,11 @@ int main(int argc, char  *argv[]){
 
     if(argc != 4){
 
-        printf("digite o nome do programa seguido de 3 argumentos (ex: calculadora soma 5 2)");
+        printf("digite o nome do programa,depois, de 3 argumentos (ex: calculadora soma 5 2)");
 
-        printf("\nsendo SOMA a operacao, 2 e 3 os valores, esses valores podem ser quaisquer inteiros");
+        printf("\nsendo SOMA a operacao, 2 e 3 os valores, esses valores podem ser quailquer inteiro");
 
-        printf("\n\nAs operacoes disponiveis sao soma, subtracao, multiplicacao, e divisao");
+        printf("\n\nas operacoes disponiveis serao soma, subtracao, multiplicacao, e divisao");
       
         return 0;
     }
